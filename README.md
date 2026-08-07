@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Ashwin Thakoor Banner" width="100%">
+  <img src="banner.png" alt="Ashwin Thakoor Banner" width="100%">
 </p>
 # Hi there 👋 I'm Ashwin Thakoor
 
