@@ -3,123 +3,92 @@
 </p>
 # Hi there 👋 I'm Ashwin Thakoor
 
-## AI • Data Analytics • Machine Learning • Backend Engineering
+AI • Data Analytics • Machine Learning • Backend Engineering
 
-I'm a Big Data Analytics student from Mauritius who enjoys building software that solves real-world problems.
+I’m an AI & Data Analytics developer based in Mauritius, focused on building intelligent systems that solve real-world problems through machine learning, data, automation, and backend engineering.
 
-Currently, I'm focused on designing scalable AI systems, backend platforms, and data-driven applications while preparing for a career in Data Science and AI Engineering.
+My work combines Python, SQL, APIs, dashboards, machine learning, and AI workflows to turn ideas into practical products. I enjoy designing systems end-to-end, from data processing and model logic to backend services and user-facing analytics.
 
----
+I’m currently focused on strengthening my skills in Data Science, AI Engineering, LLMs, MLOps, and scalable backend systems, with the long-term goal of becoming a Senior Data Scientist / AI Engineer and building impactful products for users worldwide.
 
-# 🚀 Featured Projects
+🚀 Featured Projects
+🧠 NEXORA Brain
 
-## 🧠 NEXORA Brain
-An AI knowledge platform built with FastAPI, SQLAlchemy, Alembic, and deterministic document processing.
+AI knowledge and document-intelligence platform built with FastAPI, SQLAlchemy, Alembic, and structured document-processing workflows.
 
-### Highlights
-- Document ingestion pipeline
-- Secure storage
-- Universal parser framework
-- Persistent parsing
-- Deterministic chunking
-- Provenance tracking
-- Academy learning system
+Highlights
 
-➡️ https://github.com/AshwinThakoor/nexora-brain
+Document ingestion pipeline
+Secure storage architecture
+Universal parser framework
+Persistent parsing
+Deterministic chunking
+Provenance tracking
+Academy learning system
 
----
+➡️ View NEXORA Brain
 
-## 📈 NEXORA Trading Engine
+📈 NEXORA Trading Engine
 
-Experimental AI-assisted MT5 trading architecture focused on:
+AI-assisted algorithmic trading architecture designed to automate market analysis, execution workflows, analytics, and risk-management processes.
 
-- Market analysis
-- Risk management
-- Strategy orchestration
-- Analytics
-- Dashboarding
+Highlights
 
-➡️ https://github.com/AshwinThakoor/nexora-trading-engine
+Market analysis workflows
+AI-assisted trading decisions
+MetaTrader 5 integration
+FastAPI backend services
+Risk-management engine
+Strategy orchestration
+Trading analytics
+Dashboard development
 
----
+➡️ View NEXORA Trading Engine
 
-## 💼 JobHunt MU
+💼 JobHunt MU
 
-AI-powered job discovery platform featuring:
+AI-assisted recruitment platform designed to help job seekers improve applications and discover relevant opportunities more efficiently.
 
-- Resume matching
-- Job aggregation
-- AI recommendations
-- Resume analysis
-- Career tools
+Highlights
 
-(Currently under active development.)
+AI resume analysis
+Resume and cover-letter assistance
+Job aggregation
+Intelligent job recommendations
+Search and filtering
+Career tools
+Automated data workflows
 
----
+Status: Active development
 
-# 💻 Tech Stack
+💻 Tech Stack
 
-### Languages
+Languages
+Python • SQL • R • JavaScript • HTML • CSS
 
-- Python
-- SQL
-- R
-- JavaScript
-- HTML
-- CSS
+AI & Data
+Machine Learning • Scikit-learn • Pandas • NumPy • Data Analytics • Model Training • LLM Workflows
 
-### Backend
+Backend
+FastAPI • Django • SQLAlchemy • Alembic • REST APIs
 
-- FastAPI
-- SQLAlchemy
-- Alembic
-- REST APIs
+Databases
+MySQL • SQLite
 
-### Databases
+Development & DevOps
+Docker • Git • GitHub • VS Code • Postman
 
-- MySQL
-- SQLite
+🌱 Currently Learning
 
-### AI / Data
+Retrieval-Augmented Generation (RAG) • Large Language Models • Vector Databases • MLOps • Cloud Deployment • Distributed AI Systems
 
-- Pandas
-- NumPy
-- Scikit-learn
-- Machine Learning
-- Data Analytics
+🎯 Career Direction
 
-### Tools
+Building toward a career as a Senior Data Scientist / AI Engineer, with a focus on creating intelligent products that solve meaningful real-world problems and can scale to users globally.
 
-- Git
-- GitHub
-- Docker
-- VS Code
-- Postman
+📫 Connect
 
----
+GitHub: https://github.com/AshwinThakoor
+LinkedIn: www.linkedin.com/in/ashwin-thakoor-7aa2a3373
 
-# 🌱 Currently Learning
-
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models
-- Vector Databases
-- Cloud Deployment
-- MLOps
-- Distributed AI Systems
-
----
-
-# 🎯 Career Goal
-
-To become a Senior Data Scientist / AI Engineer building intelligent systems that solve meaningful real-world problems.
-
----
-
-# 📫 Connect With Me
-
-- GitHub: https://github.com/AshwinThakoor
-- LinkedIn: www.linkedin.com/in/ashwin-thakoor-7aa2a3373
-
----
-
-⭐ Thanks for visiting my profile!
+Building. Learning. Improving.
