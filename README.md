@@ -26,7 +26,7 @@ Deterministic chunking
 Provenance tracking
 Academy learning system
 
-➡️ View NEXORA Brain
+➡️ https://github.com/AshwinThakoor/nexora-brain
 
 📈 NEXORA Trading Engine
 
@@ -43,7 +43,7 @@ Strategy orchestration
 Trading analytics
 Dashboard development
 
-➡️ View NEXORA Trading Engine
+➡️ https://github.com/AshwinThakoor/nexora-trading-engine
 
 💼 JobHunt MU
 
