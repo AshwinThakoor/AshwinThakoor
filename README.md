@@ -1,94 +1,58 @@
 <p align="center">
-  <img src="banner.png" alt="Ashwin Thakoor Banner" width="100%">
+  <img src="banner.png" alt="Ashwin Thakoor — AI, Data & Backend Development" width="100%">
 </p>
-# Hi there 👋 I'm Ashwin Thakoor
 
-AI • Data Analytics • Machine Learning • Backend Engineering
+# Ashwin Thakoor
 
-I’m an AI & Data Analytics developer based in Mauritius, focused on building intelligent systems that solve real-world problems through machine learning, data, automation, and backend engineering.
+### AI, Data & Backend Development | Python • SQL • FastAPI • Django • Machine Learning
 
-My work combines Python, SQL, APIs, dashboards, machine learning, and AI workflows to turn ideas into practical products. I enjoy designing systems end-to-end, from data processing and model logic to backend services and user-facing analytics.
+I build practical systems at the intersection of **AI, data and backend engineering** — from machine-learning workflows and analytics to APIs, automation and full-stack data products.
 
-I’m currently focused on strengthening my skills in Data Science, AI Engineering, LLMs, MLOps, and scalable backend systems, with the long-term goal of becoming a Senior Data Scientist / AI Engineer and building impactful products for users worldwide.
+My background combines hands-on enterprise application support with independent engineering projects. I enjoy taking systems from raw data and business requirements through processing, backend services, testing and user-facing analytics.
 
-🚀 Featured Projects
-🧠 NEXORA Brain
+📍 Mauritius · Open to international relocation & remote opportunities
 
-AI knowledge and document-intelligence platform built with FastAPI, SQLAlchemy, Alembic, and structured document-processing workflows.
+## 🚀 Featured Engineering Projects
 
-Highlights
+### 🧠 [NEXORA Portfolio](https://github.com/AshwinThakoor/nexora-portfolio)
+A recruiter-focused overview of the NEXORA engineering ecosystem, bringing together machine learning, market-data processing, backend APIs, analytics and document-intelligence infrastructure.
 
-Document ingestion pipeline
-Secure storage architecture
-Universal parser framework
-Persistent parsing
-Deterministic chunking
-Provenance tracking
-Academy learning system
+**Explore:** [Trading Engine](https://github.com/AshwinThakoor/nexora-trading-engine) · [NEXORA Brain](https://github.com/AshwinThakoor/nexora-brain)
 
-➡️ https://github.com/AshwinThakoor/nexora-brain
+`Python` `FastAPI` `LightGBM` `SQLAlchemy` `Alembic` `Docker` `Data Engineering`
 
-📈 NEXORA Trading Engine
+### 💼 [JobHunt MU](https://github.com/AshwinThakoor/jobhunt-mu)
+Recruitment and job-discovery platform demonstrating multi-source data aggregation architecture, deterministic CV analysis, explainable matching interfaces, Stripe Checkout/webhook integration, automated testing and Django application development.
 
-AI-assisted algorithmic trading architecture designed to automate market analysis, execution workflows, analytics, and risk-management processes.
+The public repository is a curated technical showcase; private source-specific adapters, production recommendation logic, credentials and private datasets are intentionally excluded.
 
-Highlights
+`Python` `Django` `SQLite` `Stripe` `Data Processing` `Testing` `CI`
 
-Market analysis workflows
-AI-assisted trading decisions
-MetaTrader 5 integration
-FastAPI backend services
-Risk-management engine
-Strategy orchestration
-Trading analytics
-Dashboard development
+## 🛠️ Technical Stack
 
-➡️ https://github.com/AshwinThakoor/nexora-trading-engine
+**Programming & Data**  
+Python · SQL · R · Pandas · NumPy · Data Cleaning · EDA · Feature Engineering
 
-💼 JobHunt MU
+**Machine Learning & AI**  
+Scikit-learn · TensorFlow · LightGBM · XGBoost · Predictive Modeling · Time-Series Analysis · LLM Workflows
 
-AI-assisted recruitment platform designed to help job seekers improve applications and discover relevant opportunities more efficiently.
+**Backend & APIs**  
+FastAPI · Django · REST APIs · SQLAlchemy · Alembic · API Integration
 
-Highlights
+**Databases & Analytics**  
+MySQL · SQL Server · SQLite · Power BI · Plotly · Matplotlib
 
-AI resume analysis
-Resume and cover-letter assistance
-Job aggregation
-Intelligent job recommendations
-Search and filtering
-Career tools
-Automated data workflows
+**Engineering Tools**  
+Git · GitHub · Docker · Postman · VS Code · Cursor
 
-Status: Active development
+## 🔭 Current Focus
 
-💻 Tech Stack
+I’m continuing to deepen my work in **machine learning, applied AI, LLM systems, MLOps, cloud deployment and scalable Python backend architecture** while building projects that demonstrate real engineering decisions rather than isolated tutorials.
 
-Languages
-Python • SQL • R • JavaScript • HTML • CSS
+## 🤝 Connect
 
-AI & Data
-Machine Learning • Scikit-learn • Pandas • NumPy • Data Analytics • Model Training • LLM Workflows
+[LinkedIn](https://www.linkedin.com/in/ashwin-thakoor-7aa2a3373) · [GitHub](https://github.com/AshwinThakoor)
 
-Backend
-FastAPI • Django • SQLAlchemy • Alembic • REST APIs
+---
 
-Databases
-MySQL • SQLite
-
-Development & DevOps
-Docker • Git • GitHub • VS Code • Postman
-
-🌱 Currently Learning
-
-Retrieval-Augmented Generation (RAG) • Large Language Models • Vector Databases • MLOps • Cloud Deployment • Distributed AI Systems
-
-🎯 Career Direction
-
-Building toward a career as a Senior Data Scientist / AI Engineer, with a focus on creating intelligent products that solve meaningful real-world problems and can scale to users globally.
-
-📫 Connect
-
-GitHub: https://github.com/AshwinThakoor
-LinkedIn: www.linkedin.com/in/ashwin-thakoor-7aa2a3373
-
-Building. Learning. Improving.
+> Public project repositories are curated portfolio showcases. Sensitive credentials, private datasets, proprietary implementation details and commercially valuable logic are intentionally kept private.
