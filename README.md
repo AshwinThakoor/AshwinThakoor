@@ -4,52 +4,74 @@
 
 # Ashwin Thakoor
 
-### AI, Data & Backend Development | Python • SQL • FastAPI • Django • Machine Learning
+### AI, Data & Backend Development | Python • SQL • FastAPI
 
-I build practical systems at the intersection of **AI, data and backend engineering** — from machine-learning workflows and analytics to APIs, automation and full-stack data products.
-
-My background combines hands-on enterprise application support with independent engineering projects. I enjoy taking systems from raw data and business requirements through processing, backend services, testing and user-facing analytics.
+I build practical systems across **machine learning, data and Python backend engineering**. My background combines enterprise application support and SQL/log-based troubleshooting with independent projects that integrate APIs, data processing, ML workflows, testing and user-facing applications.
 
 📍 Mauritius · Open to international relocation & remote opportunities
 
-## 🚀 Featured Engineering Projects
+## Featured engineering work
 
-### 🧠 [NEXORA Portfolio](https://github.com/AshwinThakoor/nexora-portfolio)
-A recruiter-focused overview of the NEXORA engineering ecosystem, bringing together machine learning, market-data processing, backend APIs, analytics and document-intelligence infrastructure.
+### [NEXORA AI](https://github.com/AshwinThakoor/nexora-portfolio)
+**Python · FastAPI · LightGBM · MetaTrader 5 · Pandas · NumPy · Docker/WSL**
 
-**Explore:** [Trading Engine](https://github.com/AshwinThakoor/nexora-trading-engine) · [NEXORA Brain](https://github.com/AshwinThakoor/nexora-brain)
+Independent ML-assisted trading research system connecting market/candle data, directional-model research, confidence analysis, a FastAPI signal architecture, independent risk controls, MT5 integration and post-decision analytics.
 
-`Python` `FastAPI` `LightGBM` `SQLAlchemy` `Alembic` `Docker` `Data Engineering`
+**Inspect the evidence:** [Trading Engine](https://github.com/AshwinThakoor/nexora-trading-engine) for ML/trading/backend analytics and [NEXORA Brain](https://github.com/AshwinThakoor/nexora-brain) for deeper FastAPI, SQLAlchemy, migrations, ingestion and document-processing infrastructure.
 
-### 💼 [JobHunt MU](https://github.com/AshwinThakoor/jobhunt-mu)
-Recruitment and job-discovery platform demonstrating multi-source data aggregation architecture, deterministic CV analysis, explainable matching interfaces, Stripe Checkout/webhook integration, automated testing and Django application development.
+> Active R&D. I do not claim guaranteed profitability or publish the private strategy, trained model artifacts, raw datasets, credentials or tuned execution parameters.
 
-The public repository is a curated technical showcase; private source-specific adapters, production recommendation logic, credentials and private datasets are intentionally excluded.
+### [JobHunt MU](https://github.com/AshwinThakoor/jobhunt-mu)
+**Python · Django · SQLite · Stripe · Data Processing · Testing · CI**
 
-`Python` `Django` `SQLite` `Stripe` `Data Processing` `Testing` `CI`
+Recruitment/job-discovery platform built around normalized multi-source opportunity data, candidate workflows, resume analysis, explainable matching architecture, application preparation and Stripe payments.
 
-## 🛠️ Technical Stack
+At a verified development milestone, the private aggregation pipeline worked with **MyJob.mu, Jobs.mu, Mauritius Jobs and Remotive** and produced **60+ live listings**. The public repository exposes recruiter-safe Django code, CV-analysis examples, payment/test evidence, CI and architecture documentation while keeping source-specific adapters and commercially useful recommendation logic private.
 
-**Programming & Data**  
-Python · SQL · R · Pandas · NumPy · Data Cleaning · EDA · Feature Engineering
+## Skills backed by visible projects
 
-**Machine Learning & AI**  
-Scikit-learn · TensorFlow · LightGBM · XGBoost · Predictive Modeling · Time-Series Analysis · LLM Workflows
+| Skill area | Public evidence |
+|---|---|
+| **Python** | NEXORA Trading Engine, NEXORA Brain, JobHunt MU |
+| **FastAPI / REST architecture** | NEXORA Trading Engine architecture + NEXORA Brain implementation |
+| **Django** | JobHunt MU application, models, views and tests |
+| **Machine learning / LightGBM** | NEXORA trading research and evaluation workflows |
+| **Pandas / NumPy / data analysis** | NEXORA analytics and evaluation modules |
+| **SQL/data modeling** | NEXORA Brain SQLAlchemy/Alembic schema + JobHunt relational models; professional SQL troubleshooting experience is described on my resume |
+| **Document processing** | NEXORA Brain parsers/chunking + JobHunt CV analysis |
+| **Testing / CI** | NEXORA Brain pytest suite + JobHunt regression tests/GitHub Actions |
+| **Docker / engineering workflow** | JobHunt container configuration and NEXORA development documentation |
+| **Stripe integration** | JobHunt payment workflow and tests |
 
-**Backend & APIs**  
-FastAPI · Django · REST APIs · SQLAlchemy · Alembic · API Integration
+## Professional background
 
-**Databases & Analytics**  
-MySQL · SQL Server · SQLite · Power BI · Plotly · Matplotlib
+I have enterprise application-support experience investigating incidents through **SQL-based root-cause analysis, application logs, API/testing tools and structured troubleshooting** in an SLA-driven environment. I use that production-support mindset in my engineering projects: make behavior observable, document assumptions, test important paths and fail safely.
 
-**Engineering Tools**  
-Git · GitHub · Docker · Postman · VS Code · Cursor
+Employer systems, customer information, internal code and confidential work artifacts are **not** published on GitHub.
 
-## 🔭 Current Focus
+## Technical toolkit
 
-I’m continuing to deepen my work in **machine learning, applied AI, LLM systems, MLOps, cloud deployment and scalable Python backend architecture** while building projects that demonstrate real engineering decisions rather than isolated tutorials.
+**Core:** Python · SQL · Pandas · NumPy · Data Cleaning · EDA · Feature Engineering  
+**ML / AI:** Scikit-learn · LightGBM · predictive modeling · time-series analysis · LLM/AI infrastructure learning  
+**Backend:** FastAPI · Django · REST APIs · SQLAlchemy · Alembic · API Integration  
+**Databases / Analytics:** MySQL · SQL Server · SQLite · Power BI · Plotly · Matplotlib  
+**Engineering:** Git · GitHub · Docker · Postman · VS Code · Cursor
 
-## 🤝 Connect
+Some technologies in my broader toolkit come from coursework, certification work or private/professional experience and therefore may not have a dedicated public repository. The projects above are the primary source of public engineering evidence.
+
+## Current focus
+
+I’m deepening my work in **applied machine learning, data engineering, LLM/retrieval systems, MLOps/cloud deployment and scalable Python backend architecture** while continuing to strengthen the measurable evidence, testing and documentation behind my existing projects.
+
+## Portfolio principles
+
+- Show inspectable engineering rather than inflated claims.
+- Separate implemented features from roadmap ideas.
+- Keep credentials, personal data, employer information and proprietary implementation private.
+- Document architecture and testing so a reviewer can understand a project quickly.
+- Treat AI-assisted development as a tool; understand and defend the code and design decisions presented here.
+
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/ashwin-thakoor-7aa2a3373) · [GitHub](https://github.com/AshwinThakoor)
 
